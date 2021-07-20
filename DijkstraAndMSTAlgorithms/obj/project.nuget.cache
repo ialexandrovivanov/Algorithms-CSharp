@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/jVGHyMykWMv4u6WYqFi1cVz59+pmUD2rEVDd0lvZ+UoscmNBv7ZMhIjzA6KnCRYGns2BPri9mUfLIeIm6N0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Algorithms Advanced With C-Sharp\\DijkstraAndMSTAlgorithms\\DijkstraAndMSTAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\softuni.wintellect.powercollections\\1.1.5733.22550\\softuni.wintellect.powercollections.1.1.5733.22550.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SoftUni.Wintellect.PowerCollections 1.1.5733.22550' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "SoftUni.Wintellect.PowerCollections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

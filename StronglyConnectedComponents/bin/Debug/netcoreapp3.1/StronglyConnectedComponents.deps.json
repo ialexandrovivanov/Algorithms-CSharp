@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StronglyConnectedComponents/1.0.0": {
+        "runtime": {
+          "StronglyConnectedComponents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StronglyConnectedComponents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

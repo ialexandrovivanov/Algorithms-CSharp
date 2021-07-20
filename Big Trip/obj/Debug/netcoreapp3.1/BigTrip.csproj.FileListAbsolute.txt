@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.exe
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.deps.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.runtimeconfig.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.dll
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\bin\Debug\netcoreapp3.1\BigTrip.pdb
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.dll
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.pdb
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Big Trip\obj\Debug\netcoreapp3.1\BigTrip.csprojAssemblyReference.cache

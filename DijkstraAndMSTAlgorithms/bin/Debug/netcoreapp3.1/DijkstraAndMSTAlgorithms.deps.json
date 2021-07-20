@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DijkstraAndMSTAlgorithms/1.0.0": {
+        "dependencies": {
+          "SoftUni.Wintellect.PowerCollections": "1.1.5733.22550"
+        },
+        "runtime": {
+          "DijkstraAndMSTAlgorithms.dll": {}
+        }
+      },
+      "SoftUni.Wintellect.PowerCollections/1.1.5733.22550": {
+        "runtime": {
+          "lib/net20/SoftUni.Wintellect.PowerCollections.dll": {
+            "assemblyVersion": "1.1.5733.22550",
+            "fileVersion": "1.1.5733.22550"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DijkstraAndMSTAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUni.Wintellect.PowerCollections/1.1.5733.22550": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KKQy/qCL9t3EGmKRyAYTkMlhcBvYOMfTKyszt8DAGQQ0wZ69lcuq05avT8oHkp+MKxnA6V2wzR9UFApa+ILU4Q==",
+      "path": "softuni.wintellect.powercollections/1.1.5733.22550",
+      "hashPath": "softuni.wintellect.powercollections.1.1.5733.22550.nupkg.sha512"
+    }
+  }
+}

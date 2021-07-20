@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBft6toSF+G7gWYJxsW3Upcn7RgQgvvB71eNp2JgxEHuh8SJ3xUgMZl+hAe5eLsX7i5s9ER/f3brin2Zq6R++g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Algorithms Advanced With C-Sharp\\PrimAlgorithm\\PrimAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\xact.wintellect.powercollections\\0.0.1\\xact.wintellect.powercollections.0.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Wintellect.PowerCollections 0.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Wintellect.PowerCollections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿create table with extra row for items count (items count + 1) and extra col for capacities from 1 to maxCapacity (maxCapacity + 1)
+start iterating items
+for each item we can both take it (enough capacity) or not take it (not enough capacity)
+get first item only and put it's value in the table when it fits as weight in current capacity
+than take second item
+if not enough capacity to take it -> get the value from above in the table (best for prev item)
+if enough space to take it -> get max between value from above and value on table[row - 1, capacity - weight] + current item value

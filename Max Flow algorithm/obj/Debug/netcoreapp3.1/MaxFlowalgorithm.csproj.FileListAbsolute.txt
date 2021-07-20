@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.exe
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.deps.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.runtimeconfig.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.dll
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\bin\Debug\netcoreapp3.1\MaxFlowalgorithm.pdb
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.dll
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.pdb
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Algorithms Advanced With C-Sharp\Max Flow algorithm\obj\Debug\netcoreapp3.1\MaxFlowalgorithm.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+﻿Start from a vertex and create DFS tree
+On each step down assign depth on the current vertex starting from 1
+Look for back edges which change the current vertex depth to previous vertex depth
